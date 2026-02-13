@@ -64,8 +64,6 @@ Contains:
 
 Each row corresponds to a token-level annotation.
 
----
-
 ### 2. Annotated Dataset with Metadata
 
 File example:
@@ -81,8 +79,6 @@ This file includes:
 
 This file acts as a bridge between the annotated corpus and the original Reddit source.
 
----
-
 ### 3. Raw Extracted Text
 
 File example:
@@ -90,8 +86,6 @@ File example:
 intraCS_raw.txt  
 
 Contains the raw sentences selected for intra-word code-switching analysis before annotation.
-
----
 
 ### 4. Raw Subreddit Batch Files
 
@@ -102,8 +96,6 @@ from raw_subreddit_data_1.txt  to raw_subreddit_data_14.txt
 Each file contains full raw text and sentence environment.
 
 Each batch corresponds to three subreddits collected together.
-
----
 
 ### 5. Subreddit Metadata
 
@@ -159,12 +151,6 @@ Gloss column contains morphological segmentation following Leipzig Glossing Rule
 
 ---
 
-## Ethical Considerations
-
-All data were collected from publicly available Reddit content. No private messages or restricted data were accessed. Usernames and personally identifying information were not included in the annotated dataset. This corpus is for academic and research purposes.
-
----
-
 ## Methodology of Data Collection
 
 Data were retrieved using the Reddit API via Python scripts.
@@ -181,29 +167,25 @@ This process ensured both computational scalability and manual linguistic valida
 
 ---
 
+## Ethical Considerations
+
+All data were collected from publicly available Reddit content. No private messages or restricted data were accessed. Usernames and personally identifying information were not included in the annotated dataset. This corpus is for academic and research purposes.
+
+---
+
 ## License
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
-
 Copyright (c) 2026 Berkay Bostan
-
 This work is licensed under the Creative Commons Attribution 4.0 International License.
-
 You are free to share and adapt the material for any purpose, even commercially, under the condition that appropriate credit is given.
-
 To view a copy of this license, visit:
-
 https://creativecommons.org/licenses/by/4.0/
 
 ### Third-Party Content Notice
 
 The textual data contained in this corpus was collected from publicly accessible Reddit posts using the official Reddit API. 
-
 Copyright of the original Reddit content remains with the respective Reddit users.  
 Use of the corpus is therefore also subject to Reddit’s Terms of Service and applicable platform policies.
-
 The corpus creators do not claim ownership over the original Reddit content.  
 This license applies to the structured dataset, annotations, and corpus design.
-
-Full license text:  
-https://creativecommons.org/licenses/by/4.0/
