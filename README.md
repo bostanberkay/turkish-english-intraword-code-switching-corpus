@@ -183,14 +183,17 @@ This process ensured both computational scalability and manual linguistic valida
 
 ## License
 
-This corpus is distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Under this license, users are permitted to copy, redistribute, adapt, transform, and build upon the corpus for any purpose, including academic and commercial use, provided that appropriate attribution is given to the corpus creators.
+Copyright (c) 2026 Berkay Bostan
 
-Proper attribution must include:
-• Reference to the corpus title  
-• Citation of the creators  
-• Indication of any modifications made to the data  
+This work is licensed under the Creative Commons Attribution 4.0 International License.
+
+You are free to share and adapt the material for any purpose, even commercially, under the condition that appropriate credit is given.
+
+To view a copy of this license, visit:
+
+https://creativecommons.org/licenses/by/4.0/
 
 ### Third-Party Content Notice
 
