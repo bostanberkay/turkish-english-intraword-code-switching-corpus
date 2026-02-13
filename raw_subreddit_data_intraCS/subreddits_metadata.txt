@@ -1,0 +1,59 @@
+Subreddits Metadata
+
+raw_subreddit_data_1:
+"ArsivUnutmaz","NostalgiaTurkey", "KGBTR"
+Data from the Last Five Years (retrieved on 2 November 2025 at 15:25)
+
+raw_subreddit_data_2:
+"AteistTurk", "TurkeyJerky", "BilimInsani"
+Data from the Last Five Years (retrieved on 15 January 2026 at 18:30)
+
+raw_subreddit_data_3:
+"teorikdosya", "UniversityTR", "akagas"
+Data from the Last Five Years (retrieved on 16 January 2026 at 01:07)
+
+raw_subreddit_data_4:
+"MovieTurkey", "eksi_sozluk", "RapForTR"
+Data from the Last Five Years (retrieved on 18 January 2026 at 16:25)
+
+raw_subreddit_data_5:
+"Bogazici", "CodingTR", "AnketTR"
+Data from the Last Five Years (retrieved on 18 January 2026 at 17:19)
+
+raw_subreddit_data_6:
+"photoTurkey", "ODTU", "Hacettepe"
+Data from the Last Five Years (retrieved on 19 January 2026 at 14:08)
+
+raw_subreddit_data_7:
+"wiredpeople", "teknoloji", "IstanbulTechnicalUniv"
+Data from the Last Five Years (retrieved on 19 January 2026 at 21:49)
+
+raw_subreddit_data_8:
+"Bilkent", "YurtdisiUni", "Psikoloji"
+Data from the Last Five Years (retrieved on 20 January 2026 at 17:11)
+
+raw_subreddit_data_9:
+"Turkaaaaaaaaaaaaaaaa", "Sanatolia", "kuir"
+Data from the Last Five Years (retrieved on 21 January 2026 at 15:27)
+
+raw_subreddit_data_10:
+
+"CuteTopia", "TrGameDeveloper", "altevren"
+Data from the Last Five Years (retrieved on 22 January 2026 at 13:48)
+
+raw_subreddit_data_11:
+
+"rockmuzik", "Warhammer40KTR", "NicheTurks"
+Data from the Last Five Years (retrieved on 23 January 2026 at 00:43)
+
+raw_subreddit_data_12:
+"filoloji", "dewrim", "veYakinEvren"
+Data from the Last Five Years (retrieved on 23 January 2026 at 16:38)
+
+raw_subreddit_data_13:
+"ytu", "TheKonsey", "Sozluk"
+Data from the Last Five Years (retrieved on 23 January 2026 at 19:55)
+
+raw_subreddit_data_14:
+"OMORITR", "MusicHubTR", "blackmetalTR"
+Data from the Last Five Years (retrieved on 23 January 2026 at 21:53)
