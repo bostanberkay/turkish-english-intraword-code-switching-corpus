@@ -1,4 +1,5 @@
 # Turkish–English Intra-Word Code-Switching Corpus
+https://creativecommons.org/licenses/by/4.0/
 
 An annotated corpus of Turkish–English intra-word code-switching compiled from Reddit data and annotated using the TREN system. The corpus provides token-level language labels, Leipzig-based morphological glossing for intra-word structures and a structured metadata system linking each sentence to its original subreddit source.
 
