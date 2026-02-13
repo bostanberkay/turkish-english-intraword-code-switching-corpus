@@ -183,4 +183,24 @@ This process ensured both computational scalability and manual linguistic valida
 
 ## License
 
-This dataset is distributed under the CC0 1.0 Universal license.
+This corpus is distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+Under this license, users are permitted to copy, redistribute, adapt, transform, and build upon the corpus for any purpose, including academic and commercial use, provided that appropriate attribution is given to the corpus creators.
+
+Proper attribution must include:
+• Reference to the corpus title  
+• Citation of the creators  
+• Indication of any modifications made to the data  
+
+### Third-Party Content Notice
+
+The textual data contained in this corpus was collected from publicly accessible Reddit posts using the official Reddit API. 
+
+Copyright of the original Reddit content remains with the respective Reddit users.  
+Use of the corpus is therefore also subject to Reddit’s Terms of Service and applicable platform policies.
+
+The corpus creators do not claim ownership over the original Reddit content.  
+This license applies to the structured dataset, annotations, and corpus design.
+
+Full license text:  
+https://creativecommons.org/licenses/by/4.0/
