@@ -16,7 +16,25 @@ The dataset includes:
 • Matrix and Embedded Language information  
 • Sentence-level identifiers  
 • Structured source metadata  
-• Raw subreddit data batches  
+• Raw subreddit data batches
+
+---
+
+## Download the Corpus
+
+The Turkish–English Intra-Word Code-Switching Corpus is available through the official GitHub Releases.
+
+To download the latest version:
+
+• Navigate to the **Releases** section of this repository.  
+• Select the most recent release.  
+• Download the attached .zip file.  
+
+You may also access a specific version directly via:
+
+https://github.com/bostanberkay/turkish-english-intraword-code-switching-corpus/releases
+
+For citation purposes, please refer to the specific release version used in your research.
 
 ---
 
